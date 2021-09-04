@@ -6,3 +6,5 @@ layout: default
 image: /favicon.jpg
 description: Welcome to Gacha Shrimps!
 ---
+
+Nothing to see here yet
