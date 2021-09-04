@@ -3,7 +3,7 @@ layout: default
 title: Minecraft Map
 permalink: /map/
 source: https://gacha-shrimps.github.io/Overviewer-render/
-width: 1000
+width: 100%
 height: 560
 lastUpdated: 2021/09/03 1:26pm
 
