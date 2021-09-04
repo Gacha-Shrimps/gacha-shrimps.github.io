@@ -1,1 +1,0 @@
-# gacha-shrimps.github.io
