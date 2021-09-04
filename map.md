@@ -5,6 +5,7 @@ permalink: /map/
 source: https://gacha-shrimps.github.io/Overviewer-render/
 width: 1000
 height: 560
+lastUpdated: 2021/09/04 12:36pm
 ---
 
 <div style="margin-left: auto; margin-right: auto; width:{{page.width}}px;">
@@ -13,3 +14,5 @@ height: 560
         <p>Your browser does not support iframes.</p>
     </iframe>
 </div>
+
+Last Updated: {{page.lastUpdated}}
