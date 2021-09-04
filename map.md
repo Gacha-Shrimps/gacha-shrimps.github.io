@@ -8,6 +8,7 @@ height: 560
 lastUpdated: 2021/09/03 1:26pm
 
 image: /assets/map.png
+description: Gacha Shrimps Minecraft Map!
 ---
 
 <div style="margin-left: auto; margin-right: auto; width:{{page.width}}px;">
