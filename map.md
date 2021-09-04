@@ -5,7 +5,9 @@ permalink: /map/
 source: https://gacha-shrimps.github.io/Overviewer-render/
 width: 1000
 height: 560
-lastUpdated: 2021/09/04 12:36pm
+lastUpdated: 2021/09/03 1:26pm
+
+image: /assets/map.png
 ---
 
 <div style="margin-left: auto; margin-right: auto; width:{{page.width}}px;">
