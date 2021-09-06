@@ -5,7 +5,7 @@ permalink: /map/
 source: https://gacha-shrimps.github.io/Overviewer-render/
 width: 100%
 height: 560
-lastUpdated: 2021/09/06 11:49pm
+lastUpdated: 2021/09/06 11:49am
 
 image: /assets/map.png
 description: Gacha Shrimps Minecraft Map!
